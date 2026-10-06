@@ -55,10 +55,3 @@ input:focus, select:focus {
     outline: none;
     border-color: #6d5fff;
 }
-
-.hakari-screen {
-    display: block;
-    padding: 32px;
-    max-width: 1200px;
-    margin: 0 auto;
-}
